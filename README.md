@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 一个在广州找工作的初阶前端 (无工作状态)
+💻 一个在广州找工作的初阶前端 (无工作状态)<br>
 🎓年龄：23岁（应届毕业生）
